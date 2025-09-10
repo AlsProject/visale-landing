@@ -61,5 +61,9 @@ export default {
     max-height: none;
     overflow: visible;
   }
+
+  .why-choose-us-img img{
+    max-width: 100%;
+  }
 }
 </style>

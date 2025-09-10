@@ -240,7 +240,6 @@ export default {
 .btn-primary:hover{
     background-color: transparent;
     color: #E6224B;
-    font-weight: 600;
 }
 
 .btn-secondary{
@@ -252,6 +251,5 @@ export default {
 .btn-secondary:hover{
     background-color: transparent;
     color: #193B68;
-    font-weight: 600;
 }
 </style>
