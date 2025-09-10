@@ -1,0 +1,6 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Protection / Shield -->
+  <circle cx="40" cy="40" r="38" fill="#E3F2FD" stroke="#009EE3" stroke-width="2"/>
+  <path d="M40 20L50 25V40C50 50 40 58 40 58S30 50 30 40V25L40 20Z" fill="#009EE3"/>
+  <path d="M35 38L38 41L45 34" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

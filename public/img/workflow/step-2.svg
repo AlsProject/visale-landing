@@ -1,0 +1,8 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Annonce / House -->
+  <circle cx="40" cy="40" r="38" fill="#E3F2FD" stroke="#009EE3" stroke-width="2"/>
+  <path d="M25 45L40 30L55 45V60H25V45Z" fill="#009EE3"/>
+  <rect x="35" y="50" width="10" height="10" fill="white"/>
+  <rect x="45" y="40" width="6" height="6" fill="white"/>
+  <path d="M40 28L42 26L38 26Z" fill="#193B68"/>
+</svg>
