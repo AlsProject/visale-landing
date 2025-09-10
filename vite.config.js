@@ -4,5 +4,5 @@ import vue from '@vitejs/plugin-vue'
 
 export default defineConfig({
   plugins: [vue()],
-  base: '/visale-landing/'
+  base: process.env.NODE_ENV === 'production' ? '/visale-landing/' : '/'
 })
