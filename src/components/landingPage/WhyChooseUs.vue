@@ -1,5 +1,5 @@
 <template>
-  <section id="why-choose-us" class="why-choose-us pt-5">
+  <section id="why-choose-us" class="why-choose-us py-5">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-12 col-lg-8 order-lg-1 order-2">
@@ -49,11 +49,11 @@ export default {
       font-size: 18px;
       font-style: normal;
       font-weight: 500;
-      line-height: 40px;
+      line-height: 38px;
   }
 
   .why-choose-us-img{
-      max-height: 240px;
+      max-height: 332px;
   }
 
   @media (max-width: 992px) {

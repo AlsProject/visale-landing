@@ -31,8 +31,8 @@
                 <p>Inscrivez-vous gratuitement et découvrez comment Visale peut sécuriser vos revenus tout en facilitant l’accès au logement.</p>
                 <div class="d-flex align-items-center justify-content-center flex-lg-nowrap ere le gitignor deja 
                 flex-wrap gap-4">
-                    <a class="btn btn-secondary mb-3 mb-lg-0" href="">En savoir plus sur Visale</a>
-                    <a class="btn btn-primary mb-3 mb-lg-0" href="">Je crée mon compte bailleur</a>
+                    <a class="btn btn-secondary mb-3 mb-lg-0" href="https://www.visale.fr/visale-pour-les-bailleurs/avantages/" target="_blank">En savoir plus sur Visale</a>
+                    <a class="btn btn-primary mb-3 mb-lg-0" href="https://fo.visale.fr/#/fr/register/bailleur" target="_blank">Je crée mon compte bailleur</a>
                 </div>
                 
             </div>

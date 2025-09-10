@@ -5,10 +5,10 @@
         <!-- Brand -->
         <div class="col-lg-4">
           <div class="d-flex align-items-center mb-3">
-            <img src="/img/logo.svg" alt="Visale" height="32" class="me-2" style="filter: brightness(0) invert(1);">
+            <img src="/img/logo.svg" alt="Visale" height="50" class="me-2">
           </div>
           <p class="text-muted mb-0">
-            Votre partenaire pour des solutions digitales modernes et performantes.
+           La caution Nouvelle(s) Génération(s)
           </p>
         </div>
         
@@ -16,10 +16,12 @@
         <div class="col-lg-2 col-md-6">
           <h6 class="fw-bold mb-3">Navigation</h6>
           <ul class="list-unstyled">
-            <li class="mb-2"><a href="#accueil" class="text-muted text-decoration-none">Accueil</a></li>
-            <li class="mb-2"><a href="#why-choose-us" class="text-muted text-decoration-none">Pourquoi Visale</a></li>
-            <li class="mb-2"><a href="#who-can-apply" class="text-muted text-decoration-none">Qui peut postuler</a></li>
-            <li class="mb-2"><a href="#contact" class="text-muted text-decoration-none">Contact</a></li>
+            <li class="mb-2"><a href="" class="text-muted text-decoration-none">Accueil</a></li>
+            <li class="mb-2"><a href="" class="text-muted text-decoration-none">Pourquoi Visale</a></li>
+            <li class="mb-2"><a href="" class="text-muted text-decoration-none">Qui peut postuler</a></li>
+            <li class="mb-2"><a href="" class="text-muted text-decoration-none">A quels locataires s’adresse Visale ?</a></li>
+            <li class="mb-2"><a href="" class="text-muted text-decoration-none">Comment ça fonctionne ?</a></li>
+            <li class="mb-2"><a href="" class="text-muted text-decoration-none">Ils nous font confiance</a></li>
           </ul>
         </div>
         
@@ -75,7 +77,7 @@
         </div>
         <div class="col-md-6 text-md-end">
           <small class="text-muted">
-            Fait avec ❤️ à Paris
+            Fait avec ❤️ par ALS
           </small>
         </div>
       </div>

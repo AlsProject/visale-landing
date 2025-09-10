@@ -1,7 +1,7 @@
 <template>
   <section id="who-can-apply" class="who-can-apply py-5">
     <div class="container">
-        <h2>A quel locataire s’adresse Visale ?</h2>
+        <h2>A quels locataires s’adresse Visale ?</h2>
         <div class="row">
             <div class="col-12 col-lg-3 d-flex flex-column justify-content-start align-items-center mb-3 mb-lg-0">
               <div class="who-can-apply-img">
@@ -69,7 +69,7 @@ export default {
 
   .who-can-apply h3{
     color: #E6224B;
-    font-size: 18px;
+    font-size: 20px;
     font-style: normal;
     font-weight: 600;
     line-height: 60px;
@@ -77,7 +77,7 @@ export default {
 
   .who-can-apply p{
     color: #000;
-    font-size: 14px;
+    font-size: 16px;
     font-style: normal;
     font-weight: 400;
   }

@@ -35,7 +35,7 @@
             </div>
             <div class="text-center">
                 <h3>Signature du contrat</h3>
-                <p>Vous acceptez le contrat de cautionnement Visale. Le contrat est immédiatement disponible.</p>
+                <p>Vous acceptez le contrat de cautionnement Visale.<br>Le contrat est immédiatement disponible.</p>
             </div>
         </div>
       </div>
@@ -81,7 +81,7 @@ export default {
 
 .workflow-step h3{
     color: #E6224B;
-    font-size: 18px;
+    font-size: 20px;
     font-style: normal;
     font-weight: 600;
     line-height: 60px;
@@ -89,7 +89,7 @@ export default {
 
   .workflow-step p{
     color: #000;
-    font-size: 14px;
+    font-size: 16px;
     font-style: normal;
     font-weight: 400;
   }
