@@ -3,13 +3,13 @@
     <div class="container">
         <h2>Ils nous font confiance</h2>
         <div class="row">
-            <div class="col-12 col-lg-6">
+            <div class="col-12 col-lg-6 mb-3 mb-lg-0">
                 <div class="capture-video position-relative" data-bs-toggle="modal" data-bs-target="#videoModal">
                     <img src="/img/landing-page/capture-video.webp" alt="Video">
-                    <!-- Icône YouTube transparente -->
-                    <div class="youtube-overlay position-absolute top-50 start-50 translate-middle">
-                        <i class="fab fa-youtube youtube-icon"></i>
-                    </div>
+                           <!-- Icône YouTube transparente -->
+                           <div class="youtube-overlay">
+                               <i class="fab fa-youtube youtube-icon"></i>
+                           </div>
                 </div>
             </div>
             <div class="col-12 col-lg-6">
@@ -137,10 +137,14 @@ export default {
     object-fit: cover;
 }
 
-.youtube-overlay {
-    z-index: 2;
-    pointer-events: none;
-}
+       .youtube-overlay {
+           position: absolute;
+           top: 50%;
+           left: 50%;
+           transform: translate(-50%, -50%);
+           z-index: 2;
+           pointer-events: none;
+       }
 
 .youtube-icon {
     font-size: 4rem;
