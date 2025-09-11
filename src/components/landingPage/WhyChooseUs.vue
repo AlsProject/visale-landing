@@ -32,6 +32,10 @@ export default {
 </script>
 
 <style scoped>
+  .why-choose-us {
+    overflow: hidden;
+  }
+
   .why-choose-us h2{
       color: #193B68;
       font-size: 40px;
@@ -58,7 +62,6 @@ export default {
 
   @media (max-width: 992px) {
   .why-choose-us-img {
-    max-height: none;
     overflow: visible;
   }
 
