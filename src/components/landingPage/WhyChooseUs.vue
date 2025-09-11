@@ -16,7 +16,7 @@
             
             <div class="col-12 col-lg-4 text-center order-lg-2 order-1 mb-4 mb-lg-0">
                 <div class="why-choose-us-img">
-                  <img src="/img/landing-page/why-choose-us.svg" alt="Feature visale" height="430" class="me-2">
+                  <img src="/img/landing-page/why-choose-us.svg" alt="Feature visale"  class="me-2">
                 </div>
             </div>
             
@@ -34,6 +34,10 @@ export default {
 <style scoped>
   .why-choose-us {
     overflow: hidden;
+  }
+
+  .why-choose-us-img img{
+    height:430px;
   }
 
   .why-choose-us h2{
@@ -61,8 +65,12 @@ export default {
   }
 
   @media (max-width: 992px) {
-  .why-choose-us-img {
+  .why-choose-us {
     overflow: visible;
+  }
+
+  .why-choose-us-img{
+      max-height: inherit;
   }
 
   .why-choose-us-img img{
